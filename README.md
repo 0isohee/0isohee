@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lili1940)](https://solved.ac/lili1940/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddoing2)](https://solved.ac/ddoing2/)
