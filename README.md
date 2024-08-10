@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 All <br/>
+😄 Main <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lili1940)](https://solved.ac/lili1940/)
 
 🌱 C++ <br/>
